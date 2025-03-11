@@ -6,15 +6,15 @@
 
 ### Step 1
 
-* Create a `new Git repository on GitHub[Image 1a](<../TASK 1/Screenshot a/Page 2.png..>)
+* Create a `new Git repository on GitHub[Image 1a](<../TASK 1/Screenshot a/Page 2.png>)
 
-     ![alt text](<../TASK 1/Screenshot a/Page 2.png..>)
+     ![alt text](<../TASK 1/Screenshot a/Page 2.png>)
 
 ### Step 2
 
 * clone the repository locally[Image 2a](<../TASK 1/Screenshot a/Clone Work.png>)
 
-     [alt text](<../TASK 1/Screenshot a/Clone Work.png>)
+     ![alt text](<../TASK 1/Screenshot a/Clone Work.png>)
 
 * Confrim the Repo
 
