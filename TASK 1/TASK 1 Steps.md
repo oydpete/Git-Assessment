@@ -17,14 +17,16 @@
 
 ### Step 3
 
-* Create a new branch, [Image 3a]() 
+* Create a new branch, [Image 3a](TASK 1/Screenshot a/11.png) 
 
         git checkout -b feature-update
-
+   TASK 1/Screenshot a/11.png
 
 ### Step 4
 
-* Add a new file named README.md and write a short introduction about themselves[Image 4a]()
+* Add a new file named README.md and write a short introduction about themselves[Image 4a](TASK 1/Screenshot a/new part 2 .png)
+
+   TASK 1/Screenshot a/new part 2 .png
 
 
 ### Step 5
@@ -38,5 +40,7 @@
 
 ### Step 7 
 
-* Merge the PR after reviewing changes[Image 7a]()
+* Merge the PR after reviewing changes[Image 7a](TASK 1/Screenshot a/Branch Review.png)
+
+   TASK 1/Screenshot a/Branch Review.png
 
