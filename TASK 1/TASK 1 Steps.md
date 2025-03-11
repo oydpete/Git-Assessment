@@ -17,7 +17,7 @@
 
 ### Step 3
 
-* Create a new branch, [Image 3a](TASK 1/Screenshot a/11.png) 
+* Create a new branch, [Image 3a](https://github.com/oydpete/Git-Assessment/blob/main/TASK%201/Screenshot%20a/11.png) 
 
         git checkout -b feature-update
  TASK 1/Screenshot a/11.png
