@@ -6,13 +6,19 @@
 
 ### Step 1
 
-* Crreate a `new Git repository on GitHub[Image 1a]()
+* Create a `new Git repository on GitHub[Image 1a](<../TASK 1/Screenshot a/Page 2.png..>)
+
+     ![alt text](<../TASK 1/Screenshot a/Page 2.png..>)
 
 ### Step 2
 
-* clone the repository locally[Image 2a]()
+* clone the repository locally[Image 2a](<../TASK 1/Screenshot a/Clone Work.png>)
 
-    * 
+     [alt text](<../TASK 1/Screenshot a/Clone Work.png>)
+
+* Confrim the Repo
+
+    *  ![alt text](<../TASK 1/Screenshot a/Confirm Git.png>)
 
 
 ### Step 3
@@ -31,8 +37,10 @@
 
 ### Step 5
 
-* Commit the changes and push the feature-update branch to the remote repository[Image 5a]()
+* Commit the changes and push the feature-update branch to the remote repository[Image 5a](<../TASK 1/Screenshot a/push.png>)
 
+
+   ![alt text](<../TASK 1/Screenshot a/push.png>)
 
 ### Step 6
 * Open a pull request (PR) to merge feature-update into main[Image 6a]()
