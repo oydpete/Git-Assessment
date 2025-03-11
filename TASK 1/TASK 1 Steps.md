@@ -43,7 +43,9 @@
    ![alt text](<../TASK 1/Screenshot a/push.png>)
 
 ### Step 6
-* Open a pull request (PR) to merge feature-update into main[Image 6a]()
+* Open a pull request (PR) to merge feature-update into main[Image 6a](<../TASK 1/Screenshot a/compare and pull.png>)
+
+  [alt text](<../TASK 1/Screenshot a/compare and pull.png>)
 
 
 ### Step 7 
