@@ -40,7 +40,10 @@
 
 ### Step 7 
 
-* Merge the PR after reviewing changes [Image 7a](TASK 1/Screenshot a/Branch Review.png)
+* Merge the PR after reviewing changes [Image 7a](<../TASK 1/Screenshot a/Branch Review.png>)
 
-   TASK 1/Screenshot a/Branch Review.png
+
+[alt text](<../TASK 1/Screenshot a/Branch Review.png>)
+
+
 
