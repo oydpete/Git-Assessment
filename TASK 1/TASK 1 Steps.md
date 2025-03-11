@@ -20,7 +20,7 @@
 * Create a new branch, [Image 3a](TASK 1/Screenshot a/11.png) 
 
         git checkout -b feature-update
-   TASK 1/Screenshot a/11.png
+ TASK 1/Screenshot a/11.png
 
 ### Step 4
 
@@ -40,7 +40,7 @@
 
 ### Step 7 
 
-* Merge the PR after reviewing changes[Image 7a](TASK 1/Screenshot a/Branch Review.png)
+* Merge the PR after reviewing changes [Image 7a](TASK 1/Screenshot a/Branch Review.png)
 
    TASK 1/Screenshot a/Branch Review.png
 
