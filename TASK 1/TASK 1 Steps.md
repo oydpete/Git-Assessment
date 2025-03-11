@@ -20,13 +20,13 @@
 * Create a new branch, [Image 3a](https://github.com/oydpete/Git-Assessment/blob/main/TASK%201/Screenshot%20a/11.png) 
 
         git checkout -b feature-update
-     https://github.com/oydpete/Git-Assessment/blob/main/TASK%201/Screenshot%20a/11.png
+     ![alt text](https://github.com/oydpete/Git-Assessment/blob/main/TASK%201/Screenshot%20a/11.png)
 
 ### Step 4
 
 * Add a new file named README.md and write a short introduction about themselves[Image 4a](TASK 1/Screenshot a/new part 2 .png)
 
-   TASK 1/Screenshot a/new part 2 .png
+   ![alt text](<../TASK 1/Screenshot a/new part 2 .png>)
 
 
 ### Step 5
