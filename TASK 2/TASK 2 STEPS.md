@@ -10,8 +10,11 @@ One student should create a new repository and invite a team member as a collabo
 
  * The Invite was recieved
 
-   ![alt text](<../>) 
+   ![alt text](<../TASK 2/Screenshot/add_collab.png>) 
+* Invitation accepted
 
+  ![alt text](<../TASK 2/Screenshot/collab Page.png>)
+   
 
 ### Step 2
 
@@ -38,28 +41,32 @@ The collaborator should clone the repo, create a new branch (`update-styles`), a
 
 
 ## From            
-               <!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="" />
-        <title>Welcome to Nexascale</title>
-    </head>
-    <body>
-        <header>
-            <h1>Welcome to Nexascale</h1>
-        </header>
-        <main>
-            <div>
-                <p>This is a DevSecOps Team Collaboration Project</p>
-            </div>
-        </main>
-        <footer></footer>
-    </body>
-</html>
 
+ **************************
+
+ 
+                           <!DOCTYPE html>
+            <html lang="en">
+                <head>
+                    <meta charset="UTF-8">
+                    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                    <meta name="description" content="" />
+                    <title>Welcome to Nexascale</title>
+                </head>
+                <body>
+                    <header>
+                        <h1>Welcome to Nexascale</h1>
+                    </header>
+                    <main>
+                        <div>
+                            <p>This is a DevSecOps Team Collaboration Project</p>
+                        </div>
+                    </main>
+                    <footer></footer>
+                </body>
+            </html>
+            
 
 
 
