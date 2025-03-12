@@ -1,6 +1,6 @@
 # TASK 4
 
-## This the link to the forked [Repo](https://github.com/oydpete/Peter-aws-cli/tree/documentation-update)
+## This the link to the forked [Repo](https://github.com/oydpete/Peter-aws-cli)
 
 ## Step 1
 
