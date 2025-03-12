@@ -118,11 +118,32 @@ The collaborator should clone the repo, create a new branch (`update-styles`), a
 ### Step 4
 
 The collaborator should commit and push the changes, then open a PR.
+
+   code:          
+               git add .
+               git commit -m "This commit added styles to the html file"
+               git push origin update-styles 
  
 ### Step 5 
 
 The repository owner should review, approve, and merge the PR.
+ 
+![alt text](<../TASK 2/Screenshot/open.png>)
+
+
+![alt text](<../TASK 2/Screenshot/merged.png>)
+
+
 
 ### Step 6
 
 Both students should pull the latest changes to their local machines
+
+         git checkout  main
+ 
+         git pull origin main
+
+
+
+
+
