@@ -25,16 +25,40 @@ Here is the owner's 'Index.html' file [Link here](https://github.com/Daniel4000-
 The collaborator should clone the repo, create a new branch (`update-styles`), and modify `index.html` by adding a `<style>` section.
 
 
- code :    git clone http            #clone Repo
-           git status                #Be sure the Repo is there    
+ code :    
+ 
+           git clone http            #clone Repo
+ 
+           git status                #Be sure the Repo is there  
+           
            git checkout -b update-styles
 
 
- Modify Htmml
+## Modify Htmml
 
 
 ## From            
-
+               <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="" />
+        <title>Welcome to Nexascale</title>
+    </head>
+    <body>
+        <header>
+            <h1>Welcome to Nexascale</h1>
+        </header>
+        <main>
+            <div>
+                <p>This is a DevSecOps Team Collaboration Project</p>
+            </div>
+        </main>
+        <footer></footer>
+    </body>
+</html>
 
 
 
@@ -45,13 +69,13 @@ The collaborator should clone the repo, create a new branch (`update-styles`), a
 ## To
 
               <!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="" />
-        <style>
+         <html lang="en">
+            <head>
+              <meta charset="UTF-8">
+              <meta http-equiv="X-UA-Compatible" content="IE=edge">
+              <meta name="viewport" content="width=device-width, initial-scale=1.0">
+              <meta name="description" content="" />
+           <style>
             body {
                 background-color: rgb(226, 234, 236);
                 font-family: Trebuchet, sans-serif;
